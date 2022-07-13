@@ -4,6 +4,6 @@
 
 **text**
 
-[Link_text](https://github.com/angscang/BrockU-Github-6July22/blob/main/arcade-Fishtail.png)
+[Link_text](https://github.com/angscang/BrockU-Github-6July22/blob/main/)
 
 ![Picture of Cherry Picker](arcade-Fishtail.png)
